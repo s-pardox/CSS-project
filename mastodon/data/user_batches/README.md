@@ -1,0 +1,1 @@
+This folder contains toots, specifically retrieved from a user. You can find an example of the batch retrieval process here.

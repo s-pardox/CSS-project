@@ -1,0 +1,1 @@
+This folder contains toots, specifically retrieved from the public timeline of the mastodon.social instance. You can find an example of the batch retrieval process here.

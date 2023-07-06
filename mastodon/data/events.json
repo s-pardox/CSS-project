@@ -1,0 +1,122 @@
+[
+     {
+        "event_no": "1",
+        "date": "2022-04-14",
+        "event": "Elon Musk proposes an unsolicited, non-binding purchase of Twitter for $43 billion, or $54.20 per share, with intentions to privatize the company.",
+        "summary": "14 Apr\nMusk's offer\nto purchase",
+        "legend_label": "Musk's offer to purchase.",
+        "arrow_dx": "-25",
+        "arrow_dy": "10000",
+        "y_offset": "0",
+        "label_fontsize": "11",
+        "label_color": "darkred"
+    },
+	{
+        "event_no": "2",
+		"date": "2022-04-25",
+		"event": "Twitter's board unilaterally approves Musk's buyout offer valued at $44 billion.",
+		"summary": "25 Apr\nTwitter accepts\nthe offer",
+        "legend_label": "Twitter accepts the offer.",
+        "arrow_dx": "30",
+        "arrow_dy": "10000",
+        "y_offset": "0",
+        "label_fontsize": "11",
+        "label_color": "darkred"
+	},
+  	{
+        "event_no": "3",
+		"date": "2022-09-13",
+		"event": "A court ruling rejects Musk's effort to delay the trial over legal disputes connected to Twitter's acquisition.",
+		"summary": "13 Sep\nLegal setbacks for Musk,\nacquisition proceeds",
+        "legend_label": "Legal setbacks for Musk, acquisition proceeds.",
+        "arrow_dx": "-40",
+        "arrow_dy": "10000",
+        "y_offset": "0",
+        "label_fontsize": "11",
+        "label_color": "darkred"
+	},
+  	{
+        "event_no": "4",
+		"date": "2022-10-27",
+		"event": "The acquisition deal reaches completion, positioning Musk as the new owner and CEO of Twitter; the company privatizes and folds into a new parent company, X Corp.",
+		"summary": "27 Oct\nTwitter\nacquisition\nfinalized",
+        "legend_label": "Acquisition finalized",
+        "arrow_dx": "-25",
+        "arrow_dy": "10000",
+        "y_offset": "0",
+        "label_fontsize": "11",
+        "label_color": "darkred"
+	},
+  	{
+        "event_no": "5",
+		"date": "2022-11-04",
+		"event": "Musk declares a reduction in Twitter's workforce by half as part of a cost-cutting initiative.",
+		"summary": "04 Nov\nTwitter layoff",
+        "legend_label": "Twitter layoff",
+        "arrow_dx": "-30",
+        "arrow_dy": "5000",
+        "y_offset": "-12000",
+        "label_fontsize": "11",
+        "label_color": "darkred"
+	},
+  	{
+        "event_no": "6",
+		"date": "2022-11-17",
+		"event": "Musk confronts employees with an ultimatum: commit to a demanding, engineering-focused work culture or depart with severance pay, leading some employees to contemplate a mass resignation.",
+		"summary": "17 Nov\nMusk's\nultimatum",
+        "legend_label": "Musk's ultimatum",
+        "arrow_dx": "-40",
+        "arrow_dy": "5000",
+        "y_offset": "-20000",
+        "label_fontsize": "11",
+        "label_color": "darkred"
+	},
+  	{
+        "event_no": "7",
+		"date": "2022-12-15",
+		"event": "Elon Musk bars several tech journalists, including correspondents from The New York Times, The Washington Post, and CNN, for allegedly violating Twitter's newly enacted location-revealing rules.",
+		"summary": "15 Dec\nMusk's tech\njournalists\nsuspension",
+        "legend_label": "Musk's tech journalists suspension",
+        "arrow_dx": "40",
+        "arrow_dy": "10000",
+        "y_offset": "0",
+        "label_fontsize": "11",
+        "label_color": "darkred"
+	},
+  	{
+        "event_no": "8",
+		"date": "2022-12-18",
+		"event": "Twitter introduces a 'promotion of alternative social platforms policy', which threatens to suspend or remove accounts promoting their handles from other platforms such as Facebook, Instagram, Mastodon, and others.",
+		"summary": "18 Dec\nBanning to\nalternative\nsocial media",
+        "legend_label": "Banning to alternative social media.",
+        "arrow_dx": "37",
+        "arrow_dy": "10000",
+        "y_offset": "-12000",
+        "label_fontsize": "11",
+        "label_color": "darkred"
+	},
+  	{
+        "event_no": "9",
+		"date": "2023-02-14",
+		"event": "Elon Musk instructs engineers to launch a new algorithm that amplifies the visibility of Musk's tweets a thousandfold, ensuring over 90% of Musk's followers see them.",
+		"summary": "14 Feb\nArtificial inflation\nof Musk's tweets",
+        "legend_label": "Artificial inflation of Musk's tweets",
+        "arrow_dx": "67",
+        "arrow_dy": "10000",
+        "y_offset": "0",
+        "label_fontsize": "11",
+        "label_color": "darkred"
+	},
+  	{
+        "event_no": "10",
+		"date": "2023-03-19",
+		"event": "As the feud with journalists escalates, Elon Musk introduces a poop emoji auto-response for press emails.",
+        "summary": "19 Mar\nMusk's clash\nwith journalists\nintensifies",
+        "legend_label": "Musk's ongoing clash with journalists intensifies",
+        "arrow_dx": "35",
+        "arrow_dy": "10000",
+        "y_offset": "-12000",
+        "label_fontsize": "11",
+        "label_color": "darkred"
+	}
+]

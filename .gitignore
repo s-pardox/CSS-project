@@ -1,0 +1,15 @@
+.idea
+mastodon/__pycache__
+mastodon/settings/__pycache__
+mastodon/ETL/__pycache__
+INFO
+misc/
+mastodon/notebooks
+mastodon/notebooks/.ipynb_checkpoints/*
+mastodon/logs
+mastodon/models
+__pycache__
+mastodon/settings/mastodon_credentials.py
+mastodon/settings/sql_credentials.py
+mastodon/settings/github_credentials.py
+query.sql

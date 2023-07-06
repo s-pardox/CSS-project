@@ -1,0 +1,1 @@
+This directory houses critical reference points, or 'checkpoints', employed throughout the batched data ingestion process.
